@@ -1,5 +1,5 @@
 package Interf;
 
 public interface TalkAble {
-    public void talk();
+    public void talk(); //TAAAAlk
 }
