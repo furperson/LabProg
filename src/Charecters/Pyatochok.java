@@ -11,7 +11,7 @@ public class Pyatochok extends BasicFriend {
 
     @Override
     public void ugovarivat(LittleRu ltlru) {
-        System.out.println(this.getName()+" уговаривает "+ltlru.getName() + " сьесть "+ ThingsEn.РЫБИЙ_ЖИР.toString());
+        System.out.println(this.getName()+" уговаривает на свином языке "+ltlru.getName() + " сьесть "+ ThingsEn.РЫБИЙ_ЖИР.toString());
         ltlru.setGotovEatJir(true);
     }
 
